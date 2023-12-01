@@ -21,7 +21,7 @@ This project uses the Quotable API to fetch a diverse collection of quotes. The 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/awesome-quote-generator.git
+git clone https://github.com/Tejas242/awesome-quote-generator.git
 ```
 
 2. Navigate to the project directory:
