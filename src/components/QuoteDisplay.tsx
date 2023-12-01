@@ -1,4 +1,5 @@
 import Bubbles from "./Bubbles";
+import CodeLink from "./CodeLink";
 import Quote from "./Quote"; // Assuming you have a Quote component
 
 const QuoteDisplay: React.FC<{ quote: any; fetchRandomQuote: () => void }> = ({
@@ -89,6 +90,7 @@ const QuoteDisplay: React.FC<{ quote: any; fetchRandomQuote: () => void }> = ({
             </svg>
           </button>
         </div>
+        <CodeLink />
       </div>
     </>
   );
